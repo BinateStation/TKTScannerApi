@@ -170,6 +170,7 @@
     </Compile>
     <Compile Include="Layour\DbConnect.cs" />
     <Compile Include="Models\ChechInDetails.cs" />
+    <Compile Include="Models\Default1Controller.cs" />
     <Compile Include="Models\InputModel.cs" />
     <Compile Include="Models\PaxDetails.cs" />
     <Compile Include="Models\Payments.cs" />
